@@ -1,1 +1,1 @@
-In this project, I improved the user experience of a fictional ski lodge landing page. I learned the best practices and implementations for demonstrating interaction and interactivity to my website's visitors.
+In this project, I improved the user experience of a fictional ski lodge landing page (in style.css). I learned the best practices and implementations for demonstrating interaction and interactivity to my website's visitors.
